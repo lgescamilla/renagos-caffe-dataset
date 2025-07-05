@@ -1,10 +1,10 @@
-# Renago’s Caffè Dataset
+# Renago’s Caffe Dataset
 
 This repository contains sample point-of-sale (POS) data used throughout the guidebook *Mac-Ready Power BI: Build Dashboards Without Windows*. The dataset is based on a fictional café in Santa Monica, modeled after real-world reporting tools used in small businesses.
 
 ## 📘 About the Data
 
-Although the café’s POS system is a legacy solution with no API integration, it supports **daily scheduled reports** that output detailed end-of-day sales. These reports have been collected since the reopening of Renago’s Caffè after COVID-19. The files reflect item-level sales transactions for drinks, food, and modifiers.
+Although the café’s POS system is a legacy solution with no API integration, it supports **daily scheduled reports** that output detailed end-of-day sales. These reports have been collected since the reopening of Renago’s Caffe after COVID-19. The files reflect item-level sales transactions for drinks, food, and modifiers.
 
 The reporting system used was designed in the early 2000s with **print-first formatting** in mind. As a result, the reports include:
 - Hard-coded **subtotals** for each date  
